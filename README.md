@@ -34,10 +34,7 @@ transport 80.0
 - `load()` and `save()` read and write `expenses.json`
 - `argparse` reads the command you type and runs the matching function
 
-## Roadmap
+## Status
 
-- [ ] `delete` command
-- [ ] Reject negative amounts
-- [ ] Filter by month
-- [ ] Use `Decimal` instead of `float` for money
-- [ ] Add tests with `pytest`
+Finished as a learning project. Ideas for extending it: CSV export,
+price filters, and scraping individual book pages.
