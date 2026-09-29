@@ -1,0 +1,9 @@
+# Your personal data
+expenses.json
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
